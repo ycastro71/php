@@ -2,15 +2,15 @@
 Aqui você verá várias API em php para diversas finalidades 
 
 ## BASES
-- ⚡CC
-- ⚡GG
-- ⚡LOGIN
-- ⚡AUTO-CADASTRADOR
+- [⚡CC](#)
+- [⚡GG](#)
+- [⚡LOGIN](#)
+- [⚡AUTO-CADASTRADOR](#)
 
 ## BYPASS
-- ⚡EXPLOIT
-- ⚡CAPTCHA
-- ⚡CLOUDFLARE
+- [⚡EXPLOIT](#)
+- [⚡CAPTCHA](#)
+- [⚡CLOUDFLARE](#)
 
 ## TESTADORES
-- ⚡ASSINATURA CIELO
+- [⚡ASSINATURA CIELO](https://github.com/Pugn0/php/tree/main/chk/cc/assinatura-cielo)
